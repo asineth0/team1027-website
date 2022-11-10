@@ -9,7 +9,7 @@
           href="https://twitter.com/team1027"
           rel="noopener noreferrer"
           target="_blank"
-          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2"
+          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2 hover:text-white transition text-gray-400"
         >
           <ion-icon name="logo-twitter"></ion-icon>
         </a>
@@ -17,7 +17,7 @@
           href="https://www.facebook.com/people/FRC-Team-1027/100069670446527/"
           rel="noopener noreferrer"
           target="_blank"
-          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2"
+          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2 hover:text-white transition text-gray-400"
         >
           <ion-icon name="logo-facebook"></ion-icon>
         </a>
@@ -25,7 +25,7 @@
           href="https://www.instagram.com/team_1027/"
           rel="noopener noreferrer"
           target="_blank"
-          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2"
+          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2 hover:text-white transition text-gray-400"
         >
           <ion-icon name="logo-instagram"></ion-icon>
         </a>
@@ -33,7 +33,7 @@
           href="mailto:frc1027@gmail.com"
           rel="noopener noreferrer"
           target="_blank"
-          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2"
+          class="text-lg bg-dark-600 rounded-full flex items-center justify-center p-2 hover:text-white transition text-gray-400"
         >
           <ion-icon name="mail-outline"></ion-icon>
         </a>
