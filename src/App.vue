@@ -3,17 +3,11 @@
     <!-- header -->
     <HeaderBar />
     <!-- cover -->
-    <div class="relative">
-      <img
-        src="./assets/backdrop.jpg"
-        class="w-full object-center object-cover h-72 lg:h-96"
-      />
-      <div
-        class="absolute top-0 w-full h-full bg-black bg-opacity-75 flex items-center justify-center flex-col space-y-2 lg:space-y-4"
-      >
-        <p class="font-bold text-4xl lg:text-6xl text-center">Team 1027</p>
-        <p class="text-xl lg:text-2xl text-gray-400">Mechatronic Maniacs</p>
-      </div>
+    <div
+      class="w-full h-72 lg:h-96 from-blue-600 to-blue-800 bg-gradient-to-br flex items-center justify-center flex-col space-y-2 lg:space-y-4"
+    >
+      <p class="font-bold text-4xl lg:text-6xl text-center">Team 1027</p>
+      <p class="text-xl lg:text-2xl text-blue-200">Mechatronic Maniacs</p>
     </div>
     <!-- main -->
     <div class="space-y-8 py-16">
